@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ollama Frontier Delegator"
+  short_description: "Delegate routine work locally, verify at frontier"
+  default_prompt: "Use $ollama-frontier-delegator to offload safe routine work to my active Ollama model and verify the result."

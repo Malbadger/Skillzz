@@ -1,0 +1,4 @@
+interface:
+  display_name: "Context Gate"
+  short_description: "Verify and seal phase context packages"
+  default_prompt: "Use $context-gate to audit this project gate and return a binary verdict."
