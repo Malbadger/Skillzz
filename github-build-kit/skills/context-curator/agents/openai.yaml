@@ -1,6 +1,0 @@
-interface:
-  display_name: "Context Curator"
-  short_description: "Choose what survives context compaction"
-  default_prompt: "Use $context-curator to help me choose what should survive the next context compaction."
-policy:
-  allow_implicit_invocation: true
