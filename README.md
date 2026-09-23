@@ -1,11 +1,12 @@
 # Skillzz
 
-Portable expert prompts for four agent workflows:
+Portable expert prompts for five agent workflows:
 
 - Archive Search
 - Build-to-Acceptance Kit Intake
 - Context Curator
 - Context Gate
+- Pi Agentic Workflow Accelerator
 
 The `prompts/build-kit-templates/` directory contains the six canonical Build-to-Acceptance templates used by the intake prompt.
 
